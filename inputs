@@ -1,0 +1,5 @@
+add $t1 $t2 $t3
+addi $t4 $t5 15
+jmp 1023
+sub $t6 $t7 $t8
+beq $t9 $t10 5
